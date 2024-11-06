@@ -6902,7 +6902,7 @@ __metadata:
     fs-extra: "npm:^11.1.0"
     github-release-from-changelog: "npm:^2.1.1"
     glob: "npm:^10.0.0"
-    happy-dom: "npm:^14.12.0"
+    happy-dom: "npm:^15.10.1"
     http-server: "npm:^14.1.1"
     husky: "npm:^4.3.7"
     lint-staged: "npm:^13.2.2"
@@ -16524,6 +16524,17 @@ __metadata:
     webidl-conversions: "npm:^7.0.0"
     whatwg-mimetype: "npm:^3.0.0"
   checksum: 10c0/b844d7f3f16d2657a8650e0968ddd9272f152cfd9660e0dd4378215f153fc940509981d387e1e855f117baf0cf432918ff084f10c9b557192db5d7743d78302e
+  languageName: node
+  linkType: hard
+
+"happy-dom@npm:^15.10.1":
+  version: 15.10.1
+  resolution: "happy-dom@npm:15.10.1"
+  dependencies:
+    entities: "npm:^4.5.0"
+    webidl-conversions: "npm:^7.0.0"
+    whatwg-mimetype: "npm:^3.0.0"
+  checksum: 10c0/2951f40e8051b7c031a5887098b772a729c677322b8ebf4918111e2abb65ad451cf93cf1925cb86c1ab8b2fe922f4e5d746104bb3e4caa6a6a31b67f7bb71bab
   languageName: node
   linkType: hard
 
