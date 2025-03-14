@@ -54,10 +54,10 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@babel/core": "^7.24.4",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.24.4",
     "@babel/types": "^7.24.0",
-    "@storybook/core": "workspace:*",
+    "@storybook/core": "3.3.3",
     "@storybook/csf": "^0.1.11",
     "@types/cross-spawn": "^6.0.2",
     "cross-spawn": "^7.0.3",
