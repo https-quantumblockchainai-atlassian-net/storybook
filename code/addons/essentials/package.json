@@ -88,10 +88,10 @@
     "prep": "jiti ../../../scripts/prepare/addon-bundle.ts"
   },
   "dependencies": {
-    "@storybook/addon-actions": "workspace:*",
+    "@storybook/addon-actions": "3.0.0",
     "@storybook/addon-backgrounds": "workspace:*",
     "@storybook/addon-controls": "workspace:*",
-    "@storybook/addon-docs": "workspace:*",
+    "@storybook/addon-docs": "5.2.0",
     "@storybook/addon-highlight": "workspace:*",
     "@storybook/addon-measure": "workspace:*",
     "@storybook/addon-outline": "workspace:*",
