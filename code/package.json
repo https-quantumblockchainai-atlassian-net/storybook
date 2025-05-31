@@ -133,7 +133,7 @@
     "@storybook/html-webpack5": "workspace:*",
     "@storybook/instrumenter": "workspace:*",
     "@storybook/linter-config": "^4.0.0",
-    "@storybook/nextjs": "workspace:*",
+    "@storybook/nextjs": "9.0.0",
     "@storybook/preact": "workspace:*",
     "@storybook/preact-vite": "workspace:*",
     "@storybook/preact-webpack5": "workspace:*",
