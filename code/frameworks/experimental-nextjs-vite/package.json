@@ -95,8 +95,8 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-vite": "workspace:*",
-    "@storybook/react": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
+    "@storybook/react": "7.0.0",
     "@storybook/test": "workspace:*",
     "styled-jsx": "5.1.6",
     "vite-plugin-storybook-nextjs": "^1.0.10"
