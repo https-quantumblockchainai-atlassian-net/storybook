@@ -43,7 +43,7 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/csf-plugin": "workspace:*",
+    "@storybook/csf-plugin": "7.1.0",
     "@types/find-cache-dir": "^3.2.1",
     "browser-assert": "^1.2.1",
     "es-module-lexer": "^1.5.0",
