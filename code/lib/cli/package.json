@@ -317,7 +317,7 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core": "workspace:*"
+    "@storybook/core": "3.3.3"
   },
   "devDependencies": {
     "typescript": "^5.3.2"
