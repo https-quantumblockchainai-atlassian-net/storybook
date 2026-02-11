@@ -63,7 +63,7 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-webpack": "workspace:*",
+    "@storybook/core-webpack": "7.0.0",
     "@types/node": "^22.0.0",
     "@types/semver": "^7.3.4",
     "browser-assert": "^1.2.1",
@@ -86,7 +86,7 @@
     "url": "^0.11.0",
     "util": "^0.12.4",
     "util-deprecate": "^1.0.2",
-    "webpack": "5",
+    "webpack": "5.104.1",
     "webpack-dev-middleware": "^6.1.2",
     "webpack-hot-middleware": "^2.25.1",
     "webpack-virtual-modules": "^0.6.0"
