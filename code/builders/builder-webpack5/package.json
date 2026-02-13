@@ -63,7 +63,7 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-webpack": "workspace:*",
+    "@storybook/core-webpack": "7.0.0",
     "@types/node": "^22.0.0",
     "@types/semver": "^7.3.4",
     "browser-assert": "^1.2.1",
@@ -72,7 +72,7 @@
     "constants-browserify": "^1.0.0",
     "css-loader": "^6.7.1",
     "es-module-lexer": "^1.5.0",
-    "express": "^4.19.2",
+    "express": "^4.22.0",
     "fork-ts-checker-webpack-plugin": "^8.0.0",
     "fs-extra": "^11.1.0",
     "html-webpack-plugin": "^5.5.0",
@@ -86,7 +86,7 @@
     "url": "^0.11.0",
     "util": "^0.12.4",
     "util-deprecate": "^1.0.2",
-    "webpack": "5",
+    "webpack": "5.104.1",
     "webpack-dev-middleware": "^6.1.2",
     "webpack-hot-middleware": "^2.25.1",
     "webpack-virtual-modules": "^0.6.0"
