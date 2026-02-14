@@ -59,9 +59,9 @@
   },
   "dependencies": {
     "@storybook/addon-actions": "workspace:*",
-    "@storybook/builder-vite": "workspace:*",
-    "@storybook/svelte": "workspace:*",
-    "@storybook/svelte-vite": "workspace:*"
+    "@storybook/builder-vite": "0.1.22",
+    "@storybook/svelte": "4.0.0",
+    "@storybook/svelte-vite": "9.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
