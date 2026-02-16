@@ -59,13 +59,13 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-webpack": "workspace:*",
+    "@storybook/core-webpack": "7.0.0",
     "@types/node": "^22.0.0",
     "ts-loader": "^9.2.8",
     "vue-docgen-api": "^4.75.1",
     "vue-docgen-loader": "^1.5.1",
     "vue-loader": "^16.0.0",
-    "webpack": "5"
+    "webpack": "5.98.0"
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.2.33",
